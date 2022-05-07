@@ -6,3 +6,4 @@ if (html.offsetWidth > 750) {
     var rem = html.offsetWidth / 7.5;
 }
 html.style.fontSize = rem + "px";
+console.log("test")
